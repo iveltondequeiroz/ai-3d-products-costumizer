@@ -56,7 +56,6 @@ const Customizer = () => {
                 handleClick={()=> {}}
               />
             ))}
-            
           </motion.div>
         </>
       )}
