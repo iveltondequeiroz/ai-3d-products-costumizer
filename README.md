@@ -3,6 +3,7 @@ An  AI generated 3D Products Costumizer
 
 - React
 - Three.js
-- three/Fiber
+- Tailwind
+- react-three/Fiber
 - Framer Motion
 
