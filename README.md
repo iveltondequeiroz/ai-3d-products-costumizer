@@ -8,5 +8,5 @@ An AI generated Three.js 3D Products Customizer
 - Tailwind
 
 
-![intro] (/readme.PNG)
+![intro] (/public/readme.PNG)
 
