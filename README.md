@@ -8,5 +8,5 @@ An AI generated Three.js 3D Products Customizer
 - Tailwind
 
 
-![Model] https://github.com/iveltondequeiroz/ai-3d-products-customizer/blob/main/client/public/readme.PNG
+![intro] (https://github.com/iveltondequeiroz/ai-3d-products-customizer/blob/main/client/public/readme.PNG)
 
